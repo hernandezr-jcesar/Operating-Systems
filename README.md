@@ -21,5 +21,5 @@
   - [Interprocess Communication (IPC) in Linux and Windows](https://github.com/hernandezr-jcesar/Operating-Systems/tree/main/P5-ComunicacionInterprocesos(IPC)EnLinuxYWindows)
 
 - <b>P6</b>
-  - [Mecanismos De Sincronizacion De Procesos En Linux Y Windows "semaphore")](https://github.com/hernandezr-jcesar/Operating-Systems/tree/main/P6-MecanismosDeSincronizacionDeProcesosEnLinuxYWindows(semaforos))
+  - [Process Synchronization Mechanisms in Linux and Windows "semaphore"](https://github.com/hernandezr-jcesar/Operating-Systems/tree/main/P6-MecanismosDeSincronizacionDeProcesosEnLinuxYWindows(semaforos))
  
